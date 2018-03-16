@@ -1,4 +1,4 @@
-/* Estimation of avergae node under non-idel channel conditions using Markov model
+/* Estimation of avergae delay of a node under non-idel channel conditions using Markov model
  *
  *
  * Initial simulation code from Amit Samanta (IIT Kharagpur).
