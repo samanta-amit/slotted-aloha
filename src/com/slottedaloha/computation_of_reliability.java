@@ -1,4 +1,4 @@
-/* Computation of reliability
+/* Computation of reliability (Not included in the paper)
  *
  *
  * Initial simulation code from Amit Samanta (IIT Kharagpur).
