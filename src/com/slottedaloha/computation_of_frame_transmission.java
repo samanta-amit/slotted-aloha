@@ -13,6 +13,9 @@
  * your option) any later version.
  */
 
+// tau = transmission probability
+// F = faliure probability
+
 package com.slottedaloha;
 
 public class computation_of_frame_transmission {
